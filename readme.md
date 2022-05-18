@@ -12,10 +12,10 @@ For my observation, there was a slight decrease in the amount of tweets around t
 me think that a lot of the twitter users are the younger generation and that is maybe why we did not see a 
 bigger decrease in the amount of tweets.
 
-### Map of 5:00PM tweets in the United States: 
+#### Map of 5:00PM tweets in the United States: 
 ![ScreenShot](/img/screenshot_of_map-1.jpeg)
 
-### Map of 8:00PM tweets in the United States: 
+#### Map of 8:00PM tweets in the United States: 
 ![ScreenShot](/img/screenshot_of_map-2.jpeg)
 
 
@@ -25,11 +25,11 @@ closer there are some unique words that are not in both images. Like the word "n
 not on the 5:00 PM. This shows that there is a slight difference in words and I beleive that the tops words will stay 
 being the top words because they are used in many sentences.# US_tweets
 
-### The word cloud of 5:00PM tweets in the United States:
+#### The word cloud of 5:00PM tweets in the United States:
 ![ScreenShot](/img/screenshot_of_word_cloud1.png)
 
 
-### The word cloud of 8:00PM tweets in the United States:
+#### The word cloud of 8:00PM tweets in the United States:
 ![ScreenShot](/img/screenshot_of_word_cloud2.png)
 
 
