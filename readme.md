@@ -1,5 +1,5 @@
-#Andrew Gabra
-#04/22/2022
+# Andrew Gabra
+# 04/22/2022
 # Lab 2: Geo-tagged tweet collection and visualization
 
 In this lab, I collected data from twitter around the United States for two separate times on Friday 4/22/2022.
@@ -12,10 +12,10 @@ For my observation, there was a slight decrease in the amount of tweets around t
 me think that a lot of the twitter users are the younger generation and that is maybe why we did not see a 
 bigger decrease in the amount of tweets.
 
-Map of 5:00PM tweets in the United States: 
+## Map of 5:00PM tweets in the United States: 
 ![ScreenShot](/img/screenshot_of_map-1.jpeg)
 
-Map of 8:00PM tweets in the United States: 
+### Map of 8:00PM tweets in the United States: 
 ![ScreenShot](/img/screenshot_of_map-2.jpeg)
 
 
