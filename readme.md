@@ -19,7 +19,7 @@ bigger decrease in the amount of tweets because the younger people go to bed lat
 ![ScreenShot](/img/screenshot_of_map-2.jpeg)
 
 
-For the words, I thought they were pretty similar since the words that were repeated the most were some of the 
+For the word cloud, I thought they were pretty similar since the words that were repeated the most were some of the 
 most common words in the English language, like "Go, out, up, time, need, game, love, day". However, if you look 
 closer there are some of the unique words that are not in both images. Like the word "night" is common in the 8:00 PM tweets but 
 not in the 5:00 PM tweets. This shows that there is a slight difference in words and I beleive that the tops words will stay 
