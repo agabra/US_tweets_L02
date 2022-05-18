@@ -2,7 +2,7 @@
 #04/22/2022
 # Lab 2: Geo-tagged tweet collection and visualization
 
-In this lab, I collected data from twitter for two separate times on Friday 4/22.
+In this lab, I collected data from twitter around the United States for two separate times on Friday 4/22/2022.
 The first time was around 5:00 PM and the second time was around 8:00 PM. I wanted to 
 see if the amount of tweets while decrease because that is usually when people start getting 
 ready to go to bed and I was also curious if the words would be different.
@@ -18,6 +18,15 @@ closer there are some unique words that are not in both images. Like the word "n
 not on the 5:00 PM. This shows that there is a slight difference in words and I beleive that the tops words will stay 
 being the top words because they are used in many sentences.# US_tweets
 
+The map and word cloud for 5:00 PM:
+![ScreenShot](/img/screenshot_of_map-1.png)
 ![ScreenShot](/img/screenshot_of_word_cloud1.png)
 
+The map and word cloud for 8:00 PM:
+![ScreenShot](/img/screenshot_of_map-2.png)
+
+
 ![ScreenShot](/img/screenshot_of_word_cloud2.png)
+
+
+
