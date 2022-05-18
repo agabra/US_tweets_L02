@@ -19,11 +19,11 @@ not on the 5:00 PM. This shows that there is a slight difference in words and I 
 being the top words because they are used in many sentences.# US_tweets
 
 The map and word cloud for 5:00 PM:
-![ScreenShot](/img/screenshot_of_map-1.png)
+![ScreenShot](/img/screenshot_of_map-1.jpeg)
 ![ScreenShot](/img/screenshot_of_word_cloud1.png)
 
 The map and word cloud for 8:00 PM:
-![ScreenShot](/img/screenshot_of_map-2.png)
+![ScreenShot](/img/screenshot_of_map-2.jpeg)
 
 
 ![ScreenShot](/img/screenshot_of_word_cloud2.png)
