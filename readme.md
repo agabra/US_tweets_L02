@@ -17,3 +17,7 @@ most common words in the English language, like "Go, out, up, time, need, game, 
 closer there are some unique words that are not in both images. Like the word "night" is on the 8:00 PM picture but 
 not on the 5:00 PM. This shows that there is a slight difference in words and I beleive that the tops words will stay 
 being the top words because they are used in many sentences.# US_tweets
+
+![ScreenShot](/img/screenshot_of_word_cloud1.png)
+
+![ScreenShot](/img/screenshot_of_word_cloud2.png)
